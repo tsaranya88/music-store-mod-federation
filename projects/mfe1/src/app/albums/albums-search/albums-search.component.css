@@ -1,0 +1,17 @@
+gwc-card {
+  padding: 0 24px;
+}
+
+a {
+  padding: 0 36px 16px 36px;
+}
+
+.label-link{
+  float: right;
+}
+
+select {
+  padding: 5px 10px;
+  width: 200px;
+  margin: 10px;
+}
